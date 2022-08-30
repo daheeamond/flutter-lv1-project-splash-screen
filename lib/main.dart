@@ -31,7 +31,7 @@ class HomeScreen extends StatelessWidget {
             'asset/img/logo.png',
           ),
           CircularProgressIndicator(
-            color: Colors.black,
+            color: Colors.grey,
           ),
         ],
       ),
